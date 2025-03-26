@@ -3,9 +3,10 @@ templateKey: blog-archive
 pageSlug: /blog
 pageTitle: Blog
 subheader: null
-metaDescription: A blog is a type of website or online platform where
-  individuals or groups regularly post content, typically in the form of
-  articles, diary entries, or commentary on various topics.
+metaDescription: Michael Cemovich joined FIS in 2023. He began his work with the
+  firm as a sales development representative. In less than a year, he was
+  promoted to digital solutions executive and three months later, digital sales
+  consultant.
 published: true
 schemaType: WebPage
 header: Blog
