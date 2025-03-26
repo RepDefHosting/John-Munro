@@ -1,24 +1,24 @@
 ---
 templateKey: site-data
 published: true
-name: Client Name
-jobTitle: Client's Job Title
-location: City, State, Country
+name: Michael Cemovich
+jobTitle: Sales Consultant
+location: Venice, FL
 profileImage:
-  src: /img/default-profile-male.png
-  alt: Client's headshot
-siteUrl: https://url.com
+  src: /img/michael-cemovich-digital-sales-consultant-in-florida.jpeg
+  alt: Michael Cemovich - Digital Sales Consultant in Florida
+siteUrl: https://www.aboutmichaelcemovich.com/
 socialLinks:
   twitter:
     url: https://www.x.com
     label: Visit
-    show: true
+    show: false
   facebook:
     url: https://www.facebook.com
     label: Visit
-    show: true
+    show: false
   linkedin:
-    url: https://www.linkedin.com
+    url: https://www.linkedin.com/in/michaelcemovich/
     label: Visit
     show: true
   pinterest:
