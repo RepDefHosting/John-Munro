@@ -61,7 +61,7 @@ discoverConnectExplore: Florida
 longBiography_MD: |
   {{long_biography}}
 ---
-An AWS Certified Cloud Practitioner, Michael Cemovich is a digital sales consultant II with Fidelity Information Systems (FIS). Working from Venice, FL, he presents FIS’ products to C-suite executives of financial institutions, demonstrating how the products will protect, run, and grow their businesses. Michael Cemovich also holds the CompTIA Security+ SY0-701 certificate and has competencies in FIS Fintech products, native sales applications like Salesforce, and various CRM/CSM software.
+An AWS Certified Cloud Practitioner, [Michael Cemovich](https://www.principalpost.com/in-brief/michael-cemovich) is a digital sales consultant II with Fidelity Information Systems (FIS). Working from Venice, FL, he presents FIS’ products to C-suite executives of financial institutions, demonstrating how the products will protect, run, and grow their businesses. Michael Cemovich also holds the CompTIA Security+ SY0-701 certificate and has competencies in FIS Fintech products, native sales applications like Salesforce, and various CRM/CSM software.
 
 Michael Cemovich joined FIS in 2023. He began his work with the firm as a sales development representative. In less than a year, he was promoted to digital solutions executive and three months later, digital sales consultant.
 
